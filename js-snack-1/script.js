@@ -4,7 +4,7 @@ let sum = 0;
 
 while (sum < 50) {
 
-    let userNumber = prompt("Inserisci un numero:");
+    let userNumber = prompt("Inserisci un numero inferiore a 50, esso sarà il massimo:");
 
     userNumber = parseInt(userNumber);
 
